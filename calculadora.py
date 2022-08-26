@@ -1,0 +1,5 @@
+print("minha calcalculadora de fisica")
+print("vamos comecar calculando IMC")
+peso = float(input("qual é o meu peso?\n"))
+altura = float(input("qual é a minha altura?\n"))
+print( "meu IMC é",peso/altura**2)
